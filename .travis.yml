@@ -1,5 +1,5 @@
 ---
-language: generic
+language: generic # no frills build 
 os: linux
 dist: bionic
 
